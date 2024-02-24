@@ -1,6 +1,6 @@
 --[[
 	COPYRIGHT
-	This library was written by Jakub Gorny
+	This library was written by Jakgor471
 	You can use this code without author's (mine) permission but you must not remove
 	this section.
 ]]
